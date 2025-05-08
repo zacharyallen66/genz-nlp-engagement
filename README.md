@@ -31,7 +31,7 @@ Pandas / Matplotlib — Data processing and visualizations
 🔗 Dataset
 This project uses the Sentiment140 dataset, which contains 1.6 million tweets labeled as positive or negative sentiment.
 
-📥 Kaggle Dataset: ![Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140)
+📥 Kaggle Dataset: [Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
 Note: You must be signed into Kaggle and accept the license to download the dataset.
 
