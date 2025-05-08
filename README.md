@@ -14,6 +14,8 @@ This pipeline helps organizations transition from passive listening to active pa
 
 📸 Example Output
 BERTopic Cluster Visualization	LLM-Based Gen Z Replies
+![image](https://github.com/user-attachments/assets/10069787-c136-4692-b3c4-716f0f3ace93)
+![newplot (6)](https://github.com/user-attachments/assets/417d42e8-ff9b-42b8-a408-1058d9c154cc)
 
 🔍 Core Technologies
 BERTopic — Topic modeling of sentiment-tagged tweets
@@ -29,7 +31,7 @@ Pandas / Matplotlib — Data processing and visualizations
 🔗 Dataset
 This project uses the Sentiment140 dataset, which contains 1.6 million tweets labeled as positive or negative sentiment.
 
-📥 Kaggle Dataset: Sentiment140
+📥 Kaggle Dataset: ![Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
 Note: You must be signed into Kaggle and accept the license to download the dataset.
 
